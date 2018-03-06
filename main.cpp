@@ -1,5 +1,4 @@
-<<<<<<< HEAD
- #include <iostream>
+#include <iostream>
 
  using namespace std;
 
@@ -7,7 +6,6 @@
 #include <iostream>
  using namespace std;
 
->>>>>>> division
  int main()
  {
  int a, b;
