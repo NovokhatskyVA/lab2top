@@ -1,7 +1,13 @@
+<<<<<<< HEAD
  #include <iostream>
 
  using namespace std;
 
+=======
+#include <iostream>
+ using namespace std;
+
+>>>>>>> division
  int main()
  {
  int a, b;
@@ -11,4 +17,5 @@
  << "A * 2 = " << a * 2 << '\n'
  << "A - B = " << a - b << '\n'
  << "A * B = " << a * b << '\n';
+ << "A / B = " << a / b << '\n';
  }
