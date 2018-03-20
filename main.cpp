@@ -13,4 +13,5 @@
  << "A - B = " << a - b << '\n'
  << "A * B = " << a * b << '\n'
  << "A / B = " << a / b << '\n';
+     cout<<"konec programmi\n";
  }
