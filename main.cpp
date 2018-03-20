@@ -16,4 +16,7 @@
      cout<<"konec programmi\n";
      cout<<"ewe odin konec programmi\n";
      cout<<"ewe odin konec programmi\n";
+     for (int i = 0; i < ; ++i) {
+         cout << i;
+     }
  }
